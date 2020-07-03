@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#repo=/caas-system/sorry-server/sorry-server
 repo=mtinny/nginx-404
 tag=${tag:-v0.0.1}
 ltag=${ltag:-latest}
